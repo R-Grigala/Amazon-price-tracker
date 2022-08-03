@@ -1,2 +1,2 @@
-# Amazon-price-tracker
-Django framework
+# Price-Tracker
+Amazon price tracker with Django
